@@ -1,7 +1,8 @@
 # AI-based sit-stand Streamlit web app
 This is a streamlit application to count the number of correct and incorrect sit-stands performed by a participant in 30 seconds using the Mediapipe pose model and OpenCV functions.
 
-<hr>
+<hr></hr>
+
 ### 1. Setup environment myenv
 ```
 python3 -m venv myenv
